@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "category": "linux-runtime",
+  "release": "droidhost-ubuntu26.04-arm64-r1",
+  "name": "Linux runtime (Ubuntu 26.04 LTS)",
+  "version": "droidhost-ubuntu26.04-arm64-r1",
+  "url": "https://github.com/linuszz/DroidHost-Components/releases/download/droidhost-ubuntu26.04-arm64-r1/droidhost-ubuntu26.04-arm64-r1.tar.zst",
+  "sha256": "a8f11faca4f690bf7e3d8d175ce6fe84c71b066f3b1736da8fc6682247f40180",
+  "size": 289571287,
+  "file_size": 289571287,
+  "note": "Ubuntu 26.04 LTS arm64 runtime for DroidHost, built by tools/ubuntu in linuszz/DroidHost (4acdc9f26abcd22accfb8233d7527d4823e58dbf). Its Kubuntu Plasma desktop pack is droidhost-ubuntu26.04-arm64-r1-desktop.tar.zst in the same release, named inside the runtime at usr/share/droiddeck/desktop-pack.json."
+}
