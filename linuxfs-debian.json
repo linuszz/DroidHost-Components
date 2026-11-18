@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "category": "linux-runtime",
+  "release": "droidhost-debian13-arm64-r1",
+  "name": "Linux runtime (Debian 13 (trixie))",
+  "version": "droidhost-debian13-arm64-r1",
+  "url": "https://github.com/linuszz/DroidHost-Components/releases/download/droidhost-debian13-arm64-r1/droidhost-debian13-arm64-r1.tar.zst",
+  "sha256": "b04f10ba358c3f7f7b5ad37e37e2dbbe9438e692130e8ebd4bc306637ca97b30",
+  "size": 324122416,
+  "file_size": 324122416,
+  "note": "Debian 13 (trixie) arm64 runtime for DroidHost, built by tools/debian in linuszz/DroidHost (97c13d462e6fbd304941dc41c5ba4eab42e6052a). Its KDE Plasma desktop pack is droidhost-debian13-arm64-r1-desktop.tar.zst in the same release, named inside the runtime at usr/share/droiddeck/desktop-pack.json."
+}
