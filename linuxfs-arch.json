@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "category": "linux-runtime",
-  "release": "droidhost-arch-arm64-r1",
+  "release": "droidhost-arch-arm64-r2",
   "name": "Linux runtime (Arch Linux ARM)",
-  "version": "droidhost-arch-arm64-r1",
-  "url": "https://github.com/linuszz/DroidHost-Components/releases/download/droidhost-arch-arm64-r1/droidhost-arch-arm64-r1.tar.zst",
-  "sha256": "ecf44bb4c12a5d23de848dca0b2d66711f085280a439338d9e90ff2681103307",
-  "size": 642063770,
-  "file_size": 642063770,
-  "note": "Arch Linux ARM (rolling) aarch64 runtime for DroidHost, built by tools/arch in linuszz/DroidHost (42fc35e3706e42c9321ab1ff980763e63c6e459c) from the signature-checked Arch Linux ARM tarball. Its KDE Plasma desktop pack is desktop-kde.tar.zst in release desktop-kde-r4 of the same repository, named inside the runtime at usr/share/droiddeck/desktop-pack.json."
+  "version": "droidhost-arch-arm64-r2",
+  "url": "https://github.com/linuszz/DroidHost-Components/releases/download/droidhost-arch-arm64-r2/droidhost-arch-arm64-r2.tar.zst",
+  "sha256": "f1590baf770d6941e6de140bd3f30c3bcf8834b324ddeda7bdb06bba198a5636",
+  "size": 663914538,
+  "file_size": 663914538,
+  "note": "Arch Linux ARM (rolling) aarch64 runtime for DroidHost, built by tools/arch in linuszz/DroidHost (6bfee8b4992e6308e58de12100faf23a414aeafa) from the signature-checked Arch Linux ARM tarball. Its KDE Plasma desktop pack is desktop-kde.tar.zst in release desktop-kde-r5 of the same repository, named inside the runtime at usr/share/droiddeck/desktop-pack.json."
 }
